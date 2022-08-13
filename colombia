@@ -1,0 +1,28 @@
+! name: colombia goggle
+! description: Rerank results to boost content on Colombia news and shopping sites.
+! public: true
+! author: Alvaro Libreros
+
+$downrank,site=pulzo.com
+
+$boost=1,site=eltiempo.com
+$boost=1,site=elespectador.com
+$boost=1,site=elpais.com.co
+$boost=1,site=portafolio.co
+$boost=1,site=larepublica.com
+$boost=1,site=wradio.com.co
+$boost=1,site=bluradio.com
+$boost=1,site=bbc.com/mundo/$site=bbc.com
+$boost=1,site=dw.com/es/$site=dw.com
+$boost=1,site=infobae.com
+$boost=1,site=elcolombiano.com
+$boost=2,site=caracol.com.co
+$boost=2,site=enter.co
+$boost=2,site=rcn.com.co
+$boost=2,site=futbolred.com
+$boost=2,site=buscalibre.com.co
+$boost=2,site=homecenter.com.co
+$boost=2,site=exito.com
+$boost=2,site=tiendasjumbo.co
+$boost=2,site=alkosto.com
+$boost=2,site=mercadolibre.com.co
