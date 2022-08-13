@@ -11,11 +11,11 @@ $boost=1,site=elpais.com.co
 $boost=1,site=portafolio.co
 $boost=1,site=larepublica.com
 $boost=1,site=wradio.com.co
-$boost=1,bluradio.com
-$boost=1,bbc.com/mundo
-$boost=1,dw.com/es
-$boost=1,infobae.com
-$boost=1,elcolombiano.com
+$boost=1,site=bluradio.com
+$boost=1,site=bbc.com/mundo
+$boost=1,site=dw.com/es
+$boost=1,site=infobae.com
+$boost=1,site=elcolombiano.com
 $boost=2,site=caracol.com.co
 $boost=2,site=enter.co
 $boost=2,site=rcn.com.co
